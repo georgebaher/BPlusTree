@@ -2,11 +2,11 @@
 Welcome to the B+ Tree Implementation project! This project provides a comprehensive and efficient implementation of a B+ Tree in Java. A B+ Tree is an advanced data structure commonly used in databases and file systems to store and retrieve data efficiently. It is a self-balancing tree that maintains sorted data and allows for efficient insertion, deletion, and search operations.
 
 ## Features
-**Balanced Tree Structure:** Ensures that the tree remains balanced with all leaf nodes at the same level, providing consistent performance for search, insert, and delete operations.
-**Efficient Data Storage:** Supports a high volume of data with efficient storage and retrieval.
-**Range Queries:** Supports range queries for values greater than, less than, or between specified keys.
-**Update Operations:** Allows updating the value associated with a specific key.
-**Level-order Printing:** Prints the tree in a pyramid shape, showing the keys in each node.
+**Balanced Tree Structure:** Ensures that the tree remains balanced with all leaf nodes at the same level, providing consistent performance for search, insert, and delete operations.\
+**Efficient Data Storage:** Supports a high volume of data with efficient storage and retrieval.\
+**Range Queries:** Supports range queries for values greater than, less than, or between specified keys.\
+**Update Operations:** Allows updating the value associated with a specific key.\
+**Level-order Printing:** Prints the tree in a pyramid shape, showing the keys in each node.\
 **Serialization:** Implements Serializable for easy storage and retrieval of the tree structure.
 
 ## Class Overview
